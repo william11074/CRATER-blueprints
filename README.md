@@ -1,2 +1,2 @@
 # CRATER-blueprints
-Blueprints for CRATER robotic solution
+Blueprints for C.R.A.T.E.R. robotic solution
